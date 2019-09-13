@@ -48,6 +48,13 @@ send.addEventListener('click', function(){
     }
     
 });
+    
+
+
+cancel.addEventListener('click', function() {
+    input1.value = "PALAVRA-CHAVE"
+    input2.value = "PALAVRA-CHAVE"
+})
 
 
 
